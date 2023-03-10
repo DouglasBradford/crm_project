@@ -1,4 +1,4 @@
-@yana
+@yana @smoke @regression
 Feature: Users should be able to navigate and click the Employees module
 
   Background: User already logged in and sees the profile page
