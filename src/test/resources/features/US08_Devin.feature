@@ -1,3 +1,4 @@
+@smoke @regression
 Feature: As a user, I should be able to access the Chat and Calls module.
 
   Scenario: Verify chat and calls module feature

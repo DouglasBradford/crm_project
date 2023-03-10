@@ -58,7 +58,7 @@ public class DrivePageStepDefs {
     @Then("user should be on all document page")
     public void userShouldBeOnAllDocumentPage() {
 
-        DrivePage drivePage = null;
+        DrivePage drivePage = new DrivePage();
         assert drivePage.AllDocumentPage.isDisplayed();
     }
 }

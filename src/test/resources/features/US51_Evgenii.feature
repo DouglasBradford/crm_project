@@ -1,3 +1,4 @@
+@smoke @regression
 Feature: Some of the general functionality verifications
 
   @Gene

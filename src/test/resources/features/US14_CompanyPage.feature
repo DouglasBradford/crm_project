@@ -1,4 +1,4 @@
-@US14
+@US14 @smoke @regression
 Feature: As a user, I should be able to access the Company page
 
   Scenario: Verify user sees the 7 modules in the Company page
